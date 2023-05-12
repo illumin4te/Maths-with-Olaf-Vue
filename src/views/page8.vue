@@ -1,105 +1,92 @@
 <template>
   <div class="page8-container">
     <div class="page8-container1">
-      <div class="page8-frame7">
-        <div class="page8-group6">
-          <img
-            alt="Rectangle41536"
-            src="/playground_assets/rectangle41536-cs8a-1100w.png"
-            class="page8-rectangle4"
-          />
-          <div class="page8-group5">
-            <span class="page8-text">
-              <span>7</span>
-              <br />
-            </span>
-          </div>
-          <div class="page8-group22">
+      <div class="page8-container2">
+        <div class="page8-frame7">
+          <div class="page8-group6">
             <img
-              src="/playground_assets/image12829-vp5-400h.png"
-              alt="image12829"
-              class="page8-image1"
+              alt="Rectangle41536"
+              src="/playground_assets/rectangle41536-cs8a-1100w.png"
+              class="page8-rectangle4"
             />
-            <img
-              src="/playground_assets/image42829-svpj-400h.png"
-              alt="image42829"
-              class="page8-image4"
-            />
-            <img
-              src="/playground_assets/image62830-rwu-400h.png"
-              alt="image62830"
-              class="page8-image6"
-            />
-            <img
-              src="/playground_assets/image22829-teok-400h.png"
-              alt="image22829"
-              class="page8-image2"
-            />
-            <img
-              src="/playground_assets/image32829-yo5-400h.png"
-              alt="image32829"
-              class="page8-image3"
-            />
-            <img
-              src="/playground_assets/image52830-vrk-400h.png"
-              alt="image52830"
-              class="page8-image5"
-            />
-            <img
-              src="/playground_assets/image72830-flc7-400h.png"
-              alt="image72830"
-              class="page8-image7"
-            />
-          </div>
-        </div>
-        <div class="page8-group4">
-          <router-link to="/1" class="page8-navlink">
-            <img
-              alt="home1541"
-              src="/playground_assets/home1541-3qcd-200w.png"
-              class="page8-home"
-            />
-          </router-link>
-          <router-link to="/111211121" class="page8-navlink1">
-            <div class="page8-frame">
+            <div class="page8-group5"><span class="page8-text">5</span></div>
+            <div class="page8-group17">
               <img
-                alt="Rectangle52110"
-                src="/playground_assets/rectangle52110-zb8-200h.png"
-                class="page8-rectangle5"
+                alt="IMAGE12728"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/fc15d84c-bcb4-4747-9aef-49b6a8db5d50?org_if_sml=197796"
+                class="page8-image1"
               />
               <img
-                alt="Polygon22111"
-                src="/playground_assets/polygon22111-56mm.svg"
-                class="page8-polygon2"
+                alt="IMAGE42729"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/53cc8793-0d5f-4637-9f5c-1cc29b1e2451?org_if_sml=197796"
+                class="page8-image4"
               />
               <img
-                alt="Polygon12110"
-                src="/playground_assets/polygon12110-xnd.svg"
-                class="page8-polygon1"
+                alt="IMAGE22729"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/d1eb9279-55ca-4488-9c13-9f758f2f55c5?org_if_sml=197796"
+                class="page8-image2"
+              />
+              <img
+                alt="IMAGE52729"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/19aeeb0d-381f-4369-aea4-c5089587c005?org_if_sml=197796"
+                class="page8-image5"
+              />
+              <img
+                alt="IMAGE32729"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/82effd0f-2c62-4290-8d09-821b27053fc8?org_if_sml=197796"
+                class="page8-image3"
               />
             </div>
-          </router-link>
+          </div>
+          <div class="page8-group4">
+            <router-link to="/1" class="page8-navlink">
+              <img
+                alt="home1541"
+                src="/playground_assets/home1541-3qcd-200w.png"
+                class="page8-home"
+              />
+            </router-link>
+            <router-link to="/1112111" class="page8-navlink1">
+              <div class="page8-frame">
+                <img
+                  alt="Rectangle52110"
+                  src="/playground_assets/rectangle52110-zb8-200h.png"
+                  class="page8-rectangle5"
+                />
+                <img
+                  alt="Polygon22111"
+                  src="/playground_assets/polygon22111-56mm.svg"
+                  class="page8-polygon2"
+                />
+                <img
+                  alt="Polygon12110"
+                  src="/playground_assets/polygon12110-xnd.svg"
+                  class="page8-polygon1"
+                />
+              </div>
+            </router-link>
+          </div>
         </div>
+        <router-link to="/11121" class="page8-navlink2">
+          <div class="page8-frame1">
+            <img
+              alt="Rectangle5I221"
+              src="/playground_assets/rectangle5i221-3j05-200h.png"
+              class="page8-rectangle51"
+            />
+            <img
+              alt="Polygon2I221"
+              src="/playground_assets/polygon2i221-xnvs.svg"
+              class="page8-polygon21"
+            />
+            <img
+              alt="Polygon1I221"
+              src="/playground_assets/polygon1i221-iecvq.svg"
+              class="page8-polygon11"
+            />
+          </div>
+        </router-link>
       </div>
-      <router-link to="/1112111" class="page8-navlink2">
-        <div class="page8-frame1">
-          <img
-            alt="Rectangle5I221"
-            src="/playground_assets/rectangle5i221-3j05-200h.png"
-            class="page8-rectangle51"
-          />
-          <img
-            alt="Polygon2I221"
-            src="/playground_assets/polygon2i221-xnvs.svg"
-            class="page8-polygon21"
-          />
-          <img
-            alt="Polygon1I221"
-            src="/playground_assets/polygon1i221-iecvq.svg"
-            class="page8-polygon11"
-          />
-        </div>
-      </router-link>
     </div>
   </div>
 </template>
@@ -139,10 +126,21 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
+.page8-container2 {
+  top: 42px;
+  left: 71px;
+  width: 1550px;
+  height: 896px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
 .page8-frame7 {
   gap: 35px;
-  top: 42px;
-  right: -21px;
+  top: 0px;
+  left: 52px;
   width: 1498px;
   height: auto;
   margin: auto;
@@ -188,10 +186,10 @@ export default {
   background-color: rgba(217, 217, 217, 0);
 }
 .page8-text {
-  top: -22px;
+  top: -19px;
   left: 43px;
   color: rgb(16, 55, 154);
-  width: auto;
+  width: 62px;
   height: auto;
   margin: auto;
   position: absolute;
@@ -205,9 +203,9 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.page8-group22 {
-  width: 778px;
-  height: 600px;
+.page8-group17 {
+  width: 995px;
+  height: 774px;
   display: flex;
   position: relative;
   align-items: flex-start;
@@ -215,51 +213,37 @@ export default {
 }
 .page8-image1 {
   top: 0px;
-  left: 113px;
-  width: 190px;
-  height: 364px;
+  left: 195px;
+  width: 217px;
+  height: 454px;
   position: absolute;
 }
 .page8-image4 {
   top: 0px;
-  left: 335px;
-  width: 190px;
-  height: 364px;
-  position: absolute;
-}
-.page8-image6 {
-  top: 0px;
-  left: 557px;
-  width: 190px;
-  height: 364px;
+  left: 584px;
+  width: 217px;
+  height: 454px;
   position: absolute;
 }
 .page8-image2 {
-  top: 286px;
-  left: 0px;
-  width: 190px;
-  height: 364px;
-  position: absolute;
-}
-.page8-image3 {
-  top: 286px;
-  left: 222px;
-  width: 190px;
-  height: 364px;
+  top: 320px;
+  left: 389px;
+  width: 217px;
+  height: 454px;
   position: absolute;
 }
 .page8-image5 {
-  top: 286px;
-  left: 444px;
-  width: 190px;
-  height: 364px;
+  top: 320px;
+  left: 778px;
+  width: 217px;
+  height: 454px;
   position: absolute;
 }
-.page8-image7 {
-  top: 286px;
-  left: 666px;
-  width: 190px;
-  height: 364px;
+.page8-image3 {
+  top: 320px;
+  left: 0px;
+  width: 217px;
+  height: 454px;
   position: absolute;
 }
 .page8-group4 {
@@ -336,8 +320,8 @@ export default {
   display: contents;
 }
 .page8-frame1 {
-  top: 430px;
-  left: 71px;
+  top: 387px;
+  left: 1px;
   width: 148px;
   height: 130px;
   margin: auto;

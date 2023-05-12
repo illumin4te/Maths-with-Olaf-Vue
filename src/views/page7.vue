@@ -1,82 +1,76 @@
 <template>
   <div class="page7-container">
-    <div class="page7-container1">
-      <div class="page7-frame7">
-        <div class="page7-group6">
-          <img
-            alt="Rectangle41536"
-            src="/playground_assets/rectangle41536-cs8a-1100w.png"
-            class="page7-rectangle4"
-          />
-          <div class="page7-group5">
-            <span class="page7-text">
-              <span>6</span>
-              <br />
-            </span>
-          </div>
+    <div class="page7-frame40">
+      <div class="page7-group39">
+        <div class="page7-container1">
           <div class="page7-container2">
-            <div class="page7-frame"></div>
-            <div class="page7-group20">
-              <img
-                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/4b1972de-d76c-422c-906e-91ff42a36e9b?org_if_sml=1309092"
-                alt="IMAGE12425"
-                class="page7-image1"
-              />
-              <img
-                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/82da3509-07c6-471c-81e0-6524637f70e6?org_if_sml=1309593"
-                alt="IMAGE22425"
-                class="page7-image2"
-              />
+            <div class="page7-container3">
+              <div class="page7-container4">
+                <div class="page7-rectangle4">
+                  <div class="page7-group84">
+                    <img
+                      alt="IMAGE33657"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/1e2036d6-5af1-4532-afc8-ad2854067d4c?org_if_sml=1181926"
+                      class="page7-image3"
+                    />
+                    <img
+                      alt="IMAGE113657"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/cda82236-6035-4e22-b0db-5bddbc2c5a48?org_if_sml=1184000"
+                      class="page7-image11"
+                    />
+                    <img
+                      alt="IMAGE13657"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/0164b4d4-bbce-41fd-a441-21671e608355?org_if_sml=1179080"
+                      class="page7-image1"
+                    />
+                    <img
+                      alt="IMAGE613657"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/b62a4503-239a-4464-9e28-ca379a23a14d?org_if_sml=191352"
+                      class="page7-image61"
+                    />
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
-        <div class="page7-group4">
-          <router-link to="/1" class="page7-navlink">
-            <img
-              alt="home1541"
-              src="/playground_assets/home1541-3qcd-200w.png"
-              class="page7-home"
-            />
-          </router-link>
-          <router-link to="/11121112" class="page7-navlink1">
-            <div class="page7-frame1">
+        <div class="page7-group38">
+          <div class="page7-frame4">
+            <div class="page7-group1"><span class="page7-text">9</span></div>
+            <div class="page7-group2">
               <img
-                alt="Rectangle52110"
-                src="/playground_assets/rectangle52110-zb8-200h.png"
-                class="page7-rectangle5"
+                alt="Rectangle73137"
+                src="/playground_assets/rectangle43135-t35h-1100w.png"
+                class="page7-rectangle7"
               />
-              <img
-                alt="Polygon22111"
-                src="/playground_assets/polygon22111-56mm.svg"
-                class="page7-polygon2"
-              />
-              <img
-                alt="Polygon12110"
-                src="/playground_assets/polygon12110-xnd.svg"
-                class="page7-polygon1"
-              />
+              <span class="page7-text1">4</span>
             </div>
-          </router-link>
+            <div class="page7-component1">
+              <img
+                alt="Rectangle83137"
+                src="/playground_assets/rectangle43135-t35h-1100w.png"
+                class="page7-rectangle8"
+              />
+              <span class="page7-text2">6</span>
+            </div>
+            <router-link to="/2" class="page7-navlink">
+              <div class="page7-group3">
+                <img
+                  src="/playground_assets/rectangle41536-62and-200h.png"
+                  class="page7-rectangle9"
+                />
+                <span class="page7-text3">8</span>
+              </div>
+            </router-link>
+          </div>
         </div>
       </div>
-      <router-link to="/111211" class="page7-navlink2">
-        <div class="page7-frame2">
-          <img
-            alt="Rectangle5I221"
-            src="/playground_assets/rectangle5i221-3j05-200h.png"
-            class="page7-rectangle51"
-          />
-          <img
-            alt="Polygon2I221"
-            src="/playground_assets/polygon2i221-xnvs.svg"
-            class="page7-polygon21"
-          />
-          <img
-            alt="Polygon1I221"
-            src="/playground_assets/polygon1i221-iecvq.svg"
-            class="page7-polygon11"
-          />
-        </div>
+      <router-link to="/1" class="page7-navlink1">
+        <img
+          alt="home3136"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
+          class="page7-home"
+        />
       </router-link>
     </div>
   </div>
@@ -104,55 +98,137 @@ export default {
   overflow: auto;
   min-height: 100vh;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/3ba568a4-6e96-48e9-a247-3448b80f3874-e16p-1500w.undefined");
+  background-image: url("/playground_assets/09469961-2df6-4da0-9c7f-759b2530270e-q1as-1500w.undefined");
 }
-.page7-container1 {
-  width: 1575px;
-  height: 932px;
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
-}
-.page7-frame7 {
-  gap: 35px;
-  top: 42px;
-  right: -21px;
-  width: 1498px;
+.page7-frame40 {
+  gap: 60px;
+  width: 1230px;
   height: auto;
-  margin: auto;
   display: flex;
-  position: absolute;
+  align-self: center;
   align-items: flex-start;
-  padding-right: 2px;
-  justify-content: center;
+  justify-content: flex-end;
 }
-.page7-group6 {
+.page7-group39 {
   width: 1057px;
   height: 896px;
   display: flex;
   position: relative;
-  align-self: center;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+}
+.page7-container1 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page7-container2 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page7-container3 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page7-container4 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page7-rectangle4 {
+  right: -2px;
+  width: 1057px;
+  bottom: -4px;
+  height: 896px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  border-color: var(--dl-color-primary-text);
+  border-width: 5px;
+  border-radius: 15px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/rectangle43135-t35h-1100w.png");
+  background-position: center;
+}
+.page7-group84 {
+  width: 1037px;
+  height: 640px;
+  display: flex;
+  position: relative;
+  align-self: flex-start;
   align-items: flex-start;
   flex-shrink: 1;
 }
-.page7-rectangle4 {
-  right: -9px;
-  width: 1057px;
-  bottom: -13px;
-  height: 896px;
+.page7-image3 {
+  left: 31px;
+  width: 445px;
+  bottom: 12px;
+  height: 219px;
   position: absolute;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
 }
-.page7-group5 {
-  top: 68px;
-  left: 68px;
+.page7-image11 {
+  right: 0px;
+  width: 400px;
+  bottom: 8px;
+  height: 429px;
+  position: absolute;
+}
+.page7-image1 {
+  top: -7px;
+  left: 394px;
+  width: 423px;
+  height: 455px;
+  position: absolute;
+}
+.page7-image61 {
+  top: 33px;
+  left: 28px;
+  width: 366px;
+  height: 366px;
+  position: absolute;
+}
+.page7-group38 {
+  top: 640px;
+  left: 47px;
+  width: 964px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page7-frame4 {
+  gap: 60px;
+  top: 0px;
+  left: 0px;
+  width: 964px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page7-group1 {
+  top: 0px;
+  left: 0px;
   width: 196px;
   height: 196px;
   display: flex;
@@ -162,18 +238,17 @@ export default {
   border-color: var(--dl-color-primary-text);
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius15);
-  background-color: rgba(217, 217, 217, 0);
+  background-size: cover;
+  background-image: url("/playground_assets/rectangle41536-wyuo-200h.png");
 }
 .page7-text {
-  top: -22px;
+  top: -19px;
   left: 43px;
   color: rgb(16, 55, 154);
-  width: auto;
+  width: 104px;
   height: auto;
-  margin: auto;
   position: absolute;
   font-size: 200px;
-  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Frozen1;
@@ -182,156 +257,128 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.page7-container2 {
-  flex: 0 0 auto;
-  width: 100%;
-  height: auto;
-  display: flex;
-  flex-direction: column;
-}
-.page7-frame {
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 130px;
-  display: flex;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.page7-group20 {
-  width: 844px;
-  height: 644px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page7-image1 {
-  left: 99px;
-  width: 594px;
-  bottom: 6px;
-  height: 292px;
-  position: absolute;
-}
-.page7-image2 {
-  top: 18px;
-  right: -148px;
-  width: 594px;
-  height: 292px;
-  position: absolute;
-}
-.page7-group4 {
-  width: 149px;
-  height: 561px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page7-navlink {
-  display: contents;
-}
-.page7-home {
+.page7-group2 {
   top: 0px;
-  left: 36px;
-  width: 113px;
-  height: 116px;
+  left: 256px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page7-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
   position: absolute;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
+}
+.page7-text1 {
+  top: -16px;
+  left: 51px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page7-component1 {
+  top: 0px;
+  left: 512px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.page7-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  border-color: rgba(16, 55, 154, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+.page7-text2 {
+  top: -14px;
+  left: 45px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page7-navlink {
+  display: contents;
+}
+.page7-group3 {
+  top: 0px;
+  left: 768px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.page7-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  border-color: rgba(16, 55, 154, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+.page7-text3 {
+  top: -16px;
+  left: 54px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
   text-decoration: none;
 }
 .page7-navlink1 {
   display: contents;
 }
-.page7-frame1 {
-  right: -1px;
-  width: 149px;
-  bottom: 0px;
-  height: 171px;
-  margin: auto;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-  text-decoration: none;
-}
-.page7-rectangle5 {
-  top: 34px;
-  left: -5px;
-  width: 78px;
-  height: 45px;
-  margin: auto;
-  position: absolute;
-  box-sizing: content-box;
+.page7-home {
+  width: 113px;
+  height: 116px;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
-  border-width: 8px;
-  border-radius: var(--dl-radius-radius-radius4);
-  border-right-width: 0px;
-}
-.page7-polygon2 {
-  top: 13px;
-  right: -26px;
-  width: 130px;
-  height: 102px;
-  margin: auto;
-  position: absolute;
-  box-sizing: content-box;
-  border-radius: var(--dl-radius-radius-radius4);
-}
-.page7-polygon1 {
-  top: 23px;
-  right: -14px;
-  width: 110px;
-  height: 82px;
-  position: absolute;
-  box-sizing: content-box;
-}
-.page7-navlink2 {
-  display: contents;
-}
-.page7-frame2 {
-  top: 430px;
-  left: 71px;
-  width: 148px;
-  height: 130px;
-  margin: auto;
-  display: flex;
-  position: absolute;
-  align-self: flex-start;
-  align-items: flex-start;
-  flex-shrink: 0;
+  border-width: 5px;
+  border-radius: 15px;
   text-decoration: none;
-}
-.page7-rectangle51 {
-  top: 40px;
-  right: -15px;
-  width: 78px;
-  height: 45px;
-  position: absolute;
-  box-sizing: content-box;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 8px;
-  border-radius: 2px;
-  border-left-width: 0px;
-}
-.page7-polygon21 {
-  top: 19px;
-  left: -17px;
-  width: 130px;
-  height: 102px;
-  position: absolute;
-  box-sizing: content-box;
-}
-.page7-polygon11 {
-  top: 29px;
-  left: -5px;
-  width: 110px;
-  height: 82px;
-  position: absolute;
-  box-sizing: content-box;
 }
 </style>

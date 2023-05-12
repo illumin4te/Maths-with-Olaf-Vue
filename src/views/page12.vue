@@ -1,55 +1,112 @@
 <template>
   <div class="page12-container">
-    <div class="page12-frame40">
-      <div class="page12-group39">
-        <img
-          src="/playground_assets/rectangle43135-t35h-1100w.png"
-          alt="Rectangle43135"
-          class="page12-rectangle4"
-        />
-        <div class="page12-group38">
-          <div class="page12-frame4">
-            <div class="page12-group1"><span class="page12-text">5</span></div>
-            <div class="page12-group2">
-              <img
-                src="/playground_assets/rectangle43135-t35h-1100w.png"
-                alt="Rectangle73137"
-                class="page12-rectangle7"
-              />
-              <span class="page12-text1">3</span>
+    <div class="page12-container1">
+      <div class="page12-container2">
+        <div class="page12-frame7">
+          <div class="page12-group6">
+            <img
+              alt="Rectangle41536"
+              src="/playground_assets/rectangle41536-cs8a-1100w.png"
+              class="page12-rectangle4"
+            />
+            <div class="page12-group5">
+              <span class="page12-text">
+                <span>8</span>
+                <br />
+              </span>
             </div>
-            <router-link to="/121" class="page12-navlink">
-              <div class="page12-component1">
-                <img
-                  src="/playground_assets/rectangle43135-t35h-1100w.png"
-                  alt="Rectangle83137"
-                  class="page12-rectangle8"
-                />
-                <span class="page12-text2">6</span>
-              </div>
-            </router-link>
-            <div class="page12-group3">
+            <div class="page12-group27">
               <img
-                src="/playground_assets/rectangle41536-62and-200h.png"
-                class="page12-rectangle9"
+                alt="IMAGE12932"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/015df7a3-5549-4f9d-ac95-3ac3b6b92877?org_if_sml=163246"
+                class="page12-image1"
               />
-              <span class="page12-text3">8</span>
+              <img
+                alt="IMAGE42933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/3d703ba2-3411-4dc4-8698-277de2136961?org_if_sml=163246"
+                class="page12-image4"
+              />
+              <img
+                alt="IMAGE52933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/fd661328-711c-485a-a19b-ff41a868d89e?org_if_sml=163246"
+                class="page12-image5"
+              />
+              <img
+                alt="IMAGE62933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/ad549b62-967c-40a2-bb98-4c88bc0457fe?org_if_sml=163246"
+                class="page12-image6"
+              />
+              <img
+                alt="IMAGE72933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/ef8262ba-fc9c-4ad6-9c92-2ec1b3e9f1c9?org_if_sml=163246"
+                class="page12-image7"
+              />
+              <img
+                alt="IMAGE82933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/1d2ed38d-2013-4710-9bab-2896398795fc?org_if_sml=163246"
+                class="page12-image8"
+              />
+              <img
+                alt="IMAGE22933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/d99dc978-2069-4492-a5ef-46afd0311030?org_if_sml=163246"
+                class="page12-image2"
+              />
+              <img
+                alt="IMAGE32933"
+                src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9a5f0381-b514-4136-a23f-cae0fab5f4c7?org_if_sml=163246"
+                class="page12-image3"
+              />
             </div>
           </div>
+          <div class="page12-group4">
+            <router-link to="/1" class="page12-navlink">
+              <img
+                alt="home1541"
+                src="/playground_assets/home1541-3qcd-200w.png"
+                class="page12-home"
+              />
+            </router-link>
+            <router-link to="/1112111211" class="page12-navlink1">
+              <div class="page12-frame">
+                <img
+                  alt="Rectangle52110"
+                  src="/playground_assets/rectangle52110-zb8-200h.png"
+                  class="page12-rectangle5"
+                />
+                <img
+                  alt="Polygon22111"
+                  src="/playground_assets/polygon22111-56mm.svg"
+                  class="page12-polygon2"
+                />
+                <img
+                  alt="Polygon12110"
+                  src="/playground_assets/polygon12110-xnd.svg"
+                  class="page12-polygon1"
+                />
+              </div>
+            </router-link>
+          </div>
         </div>
-        <img
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/f29c3b81-accc-4b30-b0ca-743633fd1e55?org_if_sml=1546567"
-          alt="IMAGE613551"
-          class="page12-image61"
-        />
+        <router-link to="/11121112" class="page12-navlink2">
+          <div class="page12-frame1">
+            <img
+              alt="Rectangle5I221"
+              src="/playground_assets/rectangle5i221-3j05-200h.png"
+              class="page12-rectangle51"
+            />
+            <img
+              alt="Polygon2I221"
+              src="/playground_assets/polygon2i221-xnvs.svg"
+              class="page12-polygon21"
+            />
+            <img
+              alt="Polygon1I221"
+              src="/playground_assets/polygon1i221-iecvq.svg"
+              class="page12-polygon11"
+            />
+          </div>
+        </router-link>
       </div>
-      <router-link to="/1" class="page12-navlink1">
-        <img
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
-          alt="home3136"
-          class="page12-home"
-        />
-      </router-link>
     </div>
   </div>
 </template>
@@ -76,32 +133,57 @@ export default {
   overflow: auto;
   min-height: 100vh;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/09469961-2df6-4da0-9c7f-759b2530270e-q1as-1500w.undefined");
+  background-image: url("/playground_assets/3ba568a4-6e96-48e9-a247-3448b80f3874-e16p-1500w.undefined");
 }
-.page12-frame40 {
-  gap: 60px;
-  width: 1230px;
-  height: auto;
+.page12-container1 {
+  width: 1575px;
+  height: 932px;
   display: flex;
-  align-self: center;
-  align-items: flex-start;
-  justify-content: flex-end;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
 }
-.page12-group39 {
+.page12-container2 {
+  top: 42px;
+  left: 71px;
+  width: 1550px;
+  height: 896px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.page12-frame7 {
+  gap: 35px;
+  top: 0px;
+  left: 52px;
+  width: 1498px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  padding-right: 2px;
+  justify-content: center;
+}
+.page12-group6 {
   width: 1057px;
   height: 896px;
   display: flex;
   position: relative;
-  align-items: flex-start;
+  align-self: center;
+  align-items: center;
   flex-shrink: 1;
+  justify-content: center;
 }
 .page12-rectangle4 {
-  top: 0px;
-  left: 0px;
+  right: -9px;
   width: 1057px;
+  bottom: -13px;
   height: 896px;
   position: absolute;
   border-color: rgba(16, 55, 154, 1);
@@ -109,29 +191,9 @@ export default {
   border-width: 5px;
   border-radius: 15px;
 }
-.page12-group38 {
-  top: 640px;
-  left: 47px;
-  width: 964px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page12-frame4 {
-  gap: 60px;
-  top: 0px;
-  left: 0px;
-  width: 964px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-}
-.page12-group1 {
-  top: 0px;
-  left: 0px;
+.page12-group5 {
+  top: 68px;
+  left: 68px;
   width: 196px;
   height: 196px;
   display: flex;
@@ -141,17 +203,18 @@ export default {
   border-color: var(--dl-color-primary-text);
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius15);
-  background-size: cover;
-  background-image: url("/playground_assets/rectangle41536-wyuo-200h.png");
+  background-color: rgba(217, 217, 217, 0);
 }
 .page12-text {
-  top: -19px;
+  top: -22px;
   left: 43px;
   color: rgb(16, 55, 154);
-  width: 104px;
+  width: auto;
   height: auto;
+  margin: auto;
   position: absolute;
   font-size: 200px;
+  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Frozen1;
@@ -160,135 +223,183 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.page12-group2 {
-  top: 0px;
-  left: 256px;
-  width: 196px;
-  height: 220px;
+.page12-group27 {
+  width: 1047px;
+  height: 713px;
   display: flex;
-  position: absolute;
+  position: relative;
   align-items: flex-start;
   flex-shrink: 1;
 }
-.page12-rectangle7 {
-  top: 0px;
+.page12-image1 {
+  top: 526px;
   left: 0px;
-  width: 196px;
-  height: 196px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image4 {
+  top: 363px;
+  left: 175px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image5 {
+  top: 363px;
+  left: 524px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image6 {
+  top: 176px;
+  left: 349px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image7 {
+  top: 176px;
+  left: 698px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image8 {
+  top: 0px;
+  left: 524px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image2 {
+  top: 526px;
+  left: 349px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-image3 {
+  top: 526px;
+  left: 698px;
+  width: 349px;
+  height: 187px;
+  position: absolute;
+}
+.page12-group4 {
+  width: 149px;
+  height: 561px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page12-navlink {
+  display: contents;
+}
+.page12-home {
+  top: 0px;
+  left: 36px;
+  width: 113px;
+  height: 116px;
   position: absolute;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
-}
-.page12-text1 {
-  top: -18px;
-  left: 49px;
-  color: rgb(16, 55, 154);
-  height: auto;
-  position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
   text-decoration: none;
 }
-.page12-navlink {
+.page12-navlink1 {
   display: contents;
 }
-.page12-component1 {
-  top: 0px;
-  left: 512px;
-  width: 196px;
-  height: 220px;
+.page12-frame {
+  right: -1px;
+  width: 149px;
+  bottom: 0px;
+  height: 171px;
+  margin: auto;
   display: flex;
   position: absolute;
   align-items: flex-start;
   flex-shrink: 0;
   text-decoration: none;
 }
-.page12-rectangle8 {
-  top: 0px;
-  left: 0px;
-  width: 196px;
-  height: 196px;
+.page12-rectangle5 {
+  top: 34px;
+  left: -5px;
+  width: 78px;
+  height: 45px;
+  margin: auto;
   position: absolute;
+  box-sizing: content-box;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
+  border-width: 8px;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-right-width: 0px;
 }
-.page12-text2 {
-  top: -19px;
-  left: 47px;
-  color: rgb(16, 55, 154);
-  height: auto;
+.page12-polygon2 {
+  top: 13px;
+  right: -26px;
+  width: 130px;
+  height: 102px;
+  margin: auto;
   position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
+  box-sizing: content-box;
+  border-radius: var(--dl-radius-radius-radius4);
 }
-.page12-group3 {
-  top: 0px;
-  left: 768px;
-  width: 196px;
-  height: 220px;
-  display: flex;
+.page12-polygon1 {
+  top: 23px;
+  right: -14px;
+  width: 110px;
+  height: 82px;
   position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
+  box-sizing: content-box;
 }
-.page12-rectangle9 {
-  top: 0px;
-  left: 0px;
-  width: 196px;
-  height: 196px;
-  position: absolute;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
-}
-.page12-text3 {
-  top: -18px;
-  left: 50px;
-  color: rgb(16, 55, 154);
-  height: auto;
-  position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.page12-image61 {
-  top: 10px;
-  left: 189px;
-  width: 679px;
-  height: 624px;
-  position: absolute;
-}
-.page12-navlink1 {
+.page12-navlink2 {
   display: contents;
 }
-.page12-home {
-  width: 113px;
-  height: 116px;
+.page12-frame1 {
+  top: 403px;
+  left: 2px;
+  width: 148px;
+  height: 130px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.page12-rectangle51 {
+  top: 40px;
+  right: -15px;
+  width: 78px;
+  height: 45px;
+  position: absolute;
+  box-sizing: content-box;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
-  text-decoration: none;
+  border-width: 8px;
+  border-radius: 2px;
+  border-left-width: 0px;
+}
+.page12-polygon21 {
+  top: 19px;
+  left: -17px;
+  width: 130px;
+  height: 102px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.page12-polygon11 {
+  top: 29px;
+  left: -5px;
+  width: 110px;
+  height: 82px;
+  position: absolute;
+  box-sizing: content-box;
 }
 </style>

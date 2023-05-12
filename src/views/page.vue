@@ -1,75 +1,59 @@
 <template>
   <div class="page-container">
-    <div class="page-container1">
-      <div class="page-frame7">
-        <div class="page-group6">
-          <img
-            alt="Rectangle41536"
-            src="/playground_assets/rectangle41536-cs8a-1100w.png"
-            class="page-rectangle4"
-          />
-          <div class="page-group5"><span class="page-text">2</span></div>
-          <div class="page-frame"></div>
-          <div class="page-group8">
-            <img
-              alt="IMAGE12222"
-              src="/playground_assets/image12222-s7n-400w.png"
-              class="page-image1"
-            />
-            <img
-              alt="IMAGE22222"
-              src="/playground_assets/image22222-z97-400w.png"
-              class="page-image2"
-            />
+    <div class="page-frame40">
+      <div class="page-group39">
+        <div class="page-container1">
+          <div class="page-container2">
+            <div class="page-container3">
+              <div class="page-container4">
+                <div class="page-rectangle4">
+                  <img
+                    alt="IMAGE13556"
+                    src="/playground_assets/image13556-5aj-700h.png"
+                    class="page-image1"
+                  />
+                </div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="page-group4">
-          <router-link to="/1" class="page-navlink">
-            <img
-              alt="home1541"
-              src="/playground_assets/home1541-3qcd-200w.png"
-              class="page-home"
-            />
-          </router-link>
-          <router-link to="/1112" class="page-navlink1">
-            <div class="page-frame1">
+        <div class="page-group38">
+          <div class="page-frame4">
+            <div class="page-group1"><span class="page-text">1</span></div>
+            <router-link to="/12112" class="page-navlink">
+              <div class="page-group2">
+                <img
+                  alt="Rectangle73137"
+                  src="/playground_assets/rectangle43135-t35h-1100w.png"
+                  class="page-rectangle7"
+                />
+                <span class="page-text1">4</span>
+              </div>
+            </router-link>
+            <div class="page-component1">
               <img
-                alt="Rectangle52110"
-                src="/playground_assets/rectangle52110-zb8-200h.png"
-                class="page-rectangle5"
+                alt="Rectangle83137"
+                src="/playground_assets/rectangle43135-t35h-1100w.png"
+                class="page-rectangle8"
               />
-              <img
-                alt="Polygon22111"
-                src="/playground_assets/polygon22111-56mm.svg"
-                class="page-polygon2"
-              />
-              <img
-                alt="Polygon12110"
-                src="/playground_assets/polygon12110-xnd.svg"
-                class="page-polygon1"
-              />
+              <span class="page-text2">5</span>
             </div>
-          </router-link>
+            <div class="page-group3">
+              <img
+                src="/playground_assets/rectangle41536-62and-200h.png"
+                class="page-rectangle9"
+              />
+              <span class="page-text3">9</span>
+            </div>
+          </div>
         </div>
       </div>
-      <router-link to="/11" class="page-navlink2">
-        <div class="page-frame2">
-          <img
-            alt="Rectangle5I221"
-            src="/playground_assets/rectangle5i221-3j05-200h.png"
-            class="page-rectangle51"
-          />
-          <img
-            alt="Polygon2I221"
-            src="/playground_assets/polygon2i221-xnvs.svg"
-            class="page-polygon21"
-          />
-          <img
-            alt="Polygon1I221"
-            src="/playground_assets/polygon1i221-iecvq.svg"
-            class="page-polygon11"
-          />
-        </div>
+      <router-link to="/1" class="page-navlink1">
+        <img
+          alt="home3136"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
+          class="page-home"
+        />
       </router-link>
     </div>
   </div>
@@ -97,55 +81,106 @@ export default {
   overflow: auto;
   min-height: 100vh;
   align-items: center;
-  flex-direction: row;
+  flex-direction: column;
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/3ba568a4-6e96-48e9-a247-3448b80f3874-e16p-1500w.undefined");
+  background-image: url("/playground_assets/09469961-2df6-4da0-9c7f-759b2530270e-q1as-1500w.undefined");
 }
-.page-container1 {
-  width: 1575px;
-  height: 932px;
-  display: flex;
-  align-items: center;
-  flex-direction: row;
-  justify-content: center;
-}
-.page-frame7 {
-  gap: 35px;
-  top: 42px;
-  right: -21px;
-  width: 1498px;
+.page-frame40 {
+  gap: 60px;
+  width: 1230px;
   height: auto;
-  margin: auto;
   display: flex;
-  position: absolute;
+  align-self: center;
   align-items: flex-start;
-  padding-right: 2px;
-  justify-content: center;
+  justify-content: flex-end;
 }
-.page-group6 {
+.page-group39 {
   width: 1057px;
   height: 896px;
   display: flex;
   position: relative;
-  align-self: center;
-  align-items: flex-start;
+  align-items: center;
   flex-shrink: 1;
+  justify-content: center;
+}
+.page-container1 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page-container2 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page-container3 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.page-container4 {
+  flex: 0 0 auto;
+  width: 1057px;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
 }
 .page-rectangle4 {
-  right: -5px;
+  right: -2px;
   width: 1057px;
-  bottom: -13px;
+  bottom: -4px;
   height: 896px;
+  display: flex;
   position: absolute;
+  align-items: center;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/rectangle43135-t35h-1100w.png");
+  background-position: center;
 }
-.page-group5 {
-  top: 68px;
-  left: 68px;
+.page-image1 {
+  width: 475px;
+  height: 700px;
+  margin-bottom: 200px;
+}
+.page-group38 {
+  top: 640px;
+  left: 47px;
+  width: 964px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page-frame4 {
+  gap: 60px;
+  top: 0px;
+  left: 0px;
+  width: 964px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.page-group1 {
+  top: 0px;
+  left: 0px;
   width: 196px;
   height: 196px;
   display: flex;
@@ -155,18 +190,17 @@ export default {
   border-color: var(--dl-color-primary-text);
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius15);
-  background-color: rgba(217, 217, 217, 0);
+  background-size: cover;
+  background-image: url("/playground_assets/rectangle41536-wyuo-200h.png");
 }
 .page-text {
-  top: -18px;
-  left: 48px;
+  top: -19px;
+  left: 43px;
   color: rgb(16, 55, 154);
-  width: 62px;
+  width: 104px;
   height: auto;
-  margin: auto;
   position: absolute;
   font-size: 200px;
-  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Frozen1;
@@ -175,149 +209,128 @@ export default {
   font-stretch: normal;
   text-decoration: none;
 }
-.page-frame {
-  width: 100%;
-  border: 2px dashed rgba(120, 120, 120, 0.4);
-  height: 130px;
-  display: flex;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.page-group8 {
-  width: 662px;
-  height: 641px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page-image1 {
-  left: -744px;
-  width: 307px;
-  bottom: -169px;
-  height: 641px;
-  position: absolute;
-}
-.page-image2 {
-  left: -389px;
-  width: 307px;
-  bottom: -169px;
-  height: 641px;
-  position: absolute;
-}
-.page-group4 {
-  width: 149px;
-  height: 561px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
 .page-navlink {
   display: contents;
 }
-.page-home {
+.page-group2 {
   top: 0px;
-  left: 36px;
-  width: 113px;
-  height: 116px;
+  left: 256px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  text-decoration: none;
+}
+.page-rectangle7 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
   position: absolute;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
+}
+.page-text1 {
+  top: -16px;
+  left: 51px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-component1 {
+  top: 0px;
+  left: 512px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.page-rectangle8 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  border-color: rgba(16, 55, 154, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+.page-text2 {
+  top: -14px;
+  left: 45px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page-group3 {
+  top: 0px;
+  left: 768px;
+  width: 196px;
+  height: 220px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page-rectangle9 {
+  top: 0px;
+  left: 0px;
+  width: 196px;
+  height: 196px;
+  position: absolute;
+  border-color: rgba(16, 55, 154, 1);
+  border-style: solid;
+  border-width: 5px;
+  border-radius: 15px;
+}
+.page-text3 {
+  top: -16px;
+  left: 54px;
+  color: rgb(16, 55, 154);
+  height: auto;
+  position: absolute;
+  font-size: 200px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Frozen1;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
   text-decoration: none;
 }
 .page-navlink1 {
   display: contents;
 }
-.page-frame1 {
-  right: -1px;
-  width: 149px;
-  bottom: 4px;
-  height: 130px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-  text-decoration: none;
-}
-.page-rectangle5 {
-  top: 34px;
-  left: -5px;
-  width: 78px;
-  height: 45px;
-  margin: auto;
-  position: absolute;
-  box-sizing: content-box;
+.page-home {
+  width: 113px;
+  height: 116px;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
-  border-width: 8px;
-  border-radius: var(--dl-radius-radius-radius4);
-  border-right-width: 0px;
-}
-.page-polygon2 {
-  top: 13px;
-  right: -26px;
-  width: 130px;
-  height: 102px;
-  margin: auto;
-  position: absolute;
-  box-sizing: content-box;
-  border-radius: var(--dl-radius-radius-radius4);
-}
-.page-polygon1 {
-  top: 23px;
-  right: -14px;
-  width: 110px;
-  height: 82px;
-  position: absolute;
-  box-sizing: content-box;
-}
-.page-navlink2 {
-  display: contents;
-}
-.page-frame2 {
-  top: 468px;
-  left: 69px;
-  width: 148px;
-  height: 130px;
-  margin: auto;
-  display: flex;
-  position: absolute;
-  align-self: flex-start;
-  align-items: flex-start;
-  flex-shrink: 0;
+  border-width: 5px;
+  border-radius: 15px;
   text-decoration: none;
-}
-.page-rectangle51 {
-  top: 40px;
-  right: -15px;
-  width: 78px;
-  height: 45px;
-  position: absolute;
-  box-sizing: content-box;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 8px;
-  border-radius: var(--dl-radius-radius-radius4);
-  border-left-width: 0px;
-}
-.page-polygon21 {
-  top: 19px;
-  left: -17px;
-  width: 130px;
-  height: 102px;
-  position: absolute;
-  box-sizing: content-box;
-  border-radius: var(--dl-radius-radius-radius4);
-}
-.page-polygon11 {
-  top: 28px;
-  left: -5px;
-  width: 110px;
-  height: 82px;
-  position: absolute;
-  box-sizing: content-box;
 }
 </style>

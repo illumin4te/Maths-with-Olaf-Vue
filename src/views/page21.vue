@@ -7,26 +7,21 @@
             <div class="page21-container3">
               <div class="page21-container4">
                 <div class="page21-rectangle4">
-                  <div class="page21-group84">
+                  <div class="page21-group78">
                     <img
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/1e2036d6-5af1-4532-afc8-ad2854067d4c?org_if_sml=1181926"
-                      alt="IMAGE33657"
-                      class="page21-image3"
+                      alt="IMAGE213553"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/e76b260b-1b54-4016-bb07-6b33ef58a2db?org_if_sml=1124275"
+                      class="page21-image21"
                     />
                     <img
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/cda82236-6035-4e22-b0db-5bddbc2c5a48?org_if_sml=1184000"
-                      alt="IMAGE113657"
-                      class="page21-image11"
+                      alt="IMAGE313553"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/0f244bf9-4985-4d5f-8287-184f47044347?org_if_sml=1101133"
+                      class="page21-image31"
                     />
                     <img
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/0164b4d4-bbce-41fd-a441-21671e608355?org_if_sml=1179080"
-                      alt="IMAGE13657"
-                      class="page21-image1"
-                    />
-                    <img
-                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/b62a4503-239a-4464-9e28-ca379a23a14d?org_if_sml=191352"
-                      alt="IMAGE613657"
-                      class="page21-image61"
+                      alt="IMAGE413554"
+                      src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/ee5ff1ab-e5ca-493c-8343-8aaa4817d223?org_if_sml=168931"
+                      class="page21-image41"
                     />
                   </div>
                 </div>
@@ -36,39 +31,39 @@
         </div>
         <div class="page21-group38">
           <div class="page21-frame4">
-            <div class="page21-group1"><span class="page21-text">9</span></div>
+            <router-link to="/1211212111" class="page21-navlink">
+              <div class="page21-group1"><span class="page21-text">3</span></div>
+            </router-link>
             <div class="page21-group2">
               <img
-                src="/playground_assets/rectangle43135-t35h-1100w.png"
                 alt="Rectangle73137"
+                src="/playground_assets/rectangle43135-t35h-1100w.png"
                 class="page21-rectangle7"
               />
-              <span class="page21-text1">4</span>
+              <span class="page21-text1">10</span>
             </div>
             <div class="page21-component1">
               <img
-                src="/playground_assets/rectangle43135-t35h-1100w.png"
                 alt="Rectangle83137"
+                src="/playground_assets/rectangle43135-t35h-1100w.png"
                 class="page21-rectangle8"
               />
               <span class="page21-text2">6</span>
             </div>
-            <router-link to="/2" class="page21-navlink">
-              <div class="page21-group3">
-                <img
-                  src="/playground_assets/rectangle41536-62and-200h.png"
-                  class="page21-rectangle9"
-                />
-                <span class="page21-text3">8</span>
-              </div>
-            </router-link>
+            <div class="page21-group3">
+              <img
+                src="/playground_assets/rectangle41536-62and-200h.png"
+                class="page21-rectangle9"
+              />
+              <span class="page21-text3">2</span>
+            </div>
           </div>
         </div>
       </div>
       <router-link to="/1" class="page21-navlink1">
         <img
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
           alt="home3136"
+          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
           class="page21-home"
         />
       </router-link>
@@ -169,41 +164,35 @@ export default {
   background-image: url("/playground_assets/rectangle43135-t35h-1100w.png");
   background-position: center;
 }
-.page21-group84 {
-  width: 1037px;
-  height: 640px;
+.page21-group78 {
+  width: 977px;
+  height: 618px;
   display: flex;
   position: relative;
   align-self: flex-start;
+  margin-top: 20px;
   align-items: flex-start;
   flex-shrink: 1;
 }
-.page21-image3 {
-  left: 31px;
-  width: 445px;
-  bottom: 12px;
-  height: 219px;
+.page21-image21 {
+  top: 0px;
+  left: 0px;
+  width: 323px;
+  height: 528px;
   position: absolute;
 }
-.page21-image11 {
-  right: 0px;
-  width: 400px;
-  bottom: 8px;
-  height: 429px;
+.page21-image31 {
+  top: 20px;
+  left: 688px;
+  width: 289px;
+  height: 421px;
   position: absolute;
 }
-.page21-image1 {
-  top: -7px;
-  left: 394px;
-  width: 423px;
-  height: 455px;
-  position: absolute;
-}
-.page21-image61 {
-  top: 33px;
-  left: 28px;
-  width: 366px;
-  height: 366px;
+.page21-image41 {
+  top: 264px;
+  left: 323px;
+  width: 373px;
+  height: 354px;
   position: absolute;
 }
 .page21-group38 {
@@ -226,6 +215,9 @@ export default {
   position: absolute;
   align-items: flex-start;
 }
+.page21-navlink {
+  display: contents;
+}
 .page21-group1 {
   top: 0px;
   left: 0px;
@@ -239,6 +231,7 @@ export default {
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius15);
   background-size: cover;
+  text-decoration: none;
   background-image: url("/playground_assets/rectangle41536-wyuo-200h.png");
 }
 .page21-text {
@@ -280,7 +273,7 @@ export default {
 }
 .page21-text1 {
   top: -16px;
-  left: 51px;
+  left: -5px;
   color: rgb(16, 55, 154);
   height: auto;
   position: absolute;
@@ -328,9 +321,6 @@ export default {
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
-}
-.page21-navlink {
-  display: contents;
 }
 .page21-group3 {
   top: 0px;

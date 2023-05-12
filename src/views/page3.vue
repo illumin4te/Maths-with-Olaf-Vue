@@ -1,90 +1,84 @@
 <template>
   <div class="page3-container">
     <div class="page3-container1">
-      <div class="page3-frame7">
-        <div class="page3-group6">
-          <img
-            alt="Rectangle41536"
-            src="/playground_assets/rectangle41536-cs8a-1100w.png"
-            class="page3-rectangle4"
-          />
-          <div class="page3-group5"><span class="page3-text">5</span></div>
-          <div class="page3-group17">
-            <img
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/fc15d84c-bcb4-4747-9aef-49b6a8db5d50?org_if_sml=197796"
-              alt="IMAGE12728"
-              class="page3-image1"
-            />
-            <img
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/53cc8793-0d5f-4637-9f5c-1cc29b1e2451?org_if_sml=197796"
-              alt="IMAGE42729"
-              class="page3-image4"
-            />
-            <img
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/d1eb9279-55ca-4488-9c13-9f758f2f55c5?org_if_sml=197796"
-              alt="IMAGE22729"
-              class="page3-image2"
-            />
-            <img
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/19aeeb0d-381f-4369-aea4-c5089587c005?org_if_sml=197796"
-              alt="IMAGE52729"
-              class="page3-image5"
-            />
-            <img
-              src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/82effd0f-2c62-4290-8d09-821b27053fc8?org_if_sml=197796"
-              alt="IMAGE32729"
-              class="page3-image3"
-            />
+      <div class="page3-container2">
+        <div class="page3-frame7">
+          <div class="page3-group6">
+            <div class="page3-rectangle4">
+              <div class="page3-group14">
+                <img
+                  alt="IMAGE12224"
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/eee89f74-85d9-4247-a263-250d08385b8b?org_if_sml=1115126"
+                  class="page3-image1"
+                />
+                <img
+                  alt="IMAGE32224"
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/06b013e1-bf63-41db-aeff-50cab33872c6?org_if_sml=1115126"
+                  class="page3-image3"
+                />
+                <img
+                  alt="IMAGE22224"
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/3ded1e7d-4b7c-41b4-8639-e9ce64698f36?org_if_sml=1115126"
+                  class="page3-image2"
+                />
+                <img
+                  alt="IMAGE42224"
+                  src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/1a8d00ba-bfd6-4ae4-88b7-727f6cc861f9?org_if_sml=1115126"
+                  class="page3-image4"
+                />
+              </div>
+            </div>
+            <div class="page3-group5"><span class="page3-text">4</span></div>
+          </div>
+          <div class="page3-group4">
+            <router-link to="/1" class="page3-navlink">
+              <img
+                alt="home1541"
+                src="/playground_assets/home1541-3qcd-200w.png"
+                class="page3-home"
+              />
+            </router-link>
+            <router-link to="/111211" class="page3-navlink1">
+              <div class="page3-frame">
+                <img
+                  alt="Rectangle52110"
+                  src="/playground_assets/rectangle52110-zb8-200h.png"
+                  class="page3-rectangle5"
+                />
+                <img
+                  alt="Polygon22111"
+                  src="/playground_assets/polygon22111-56mm.svg"
+                  class="page3-polygon2"
+                />
+                <img
+                  alt="Polygon12110"
+                  src="/playground_assets/polygon12110-xnd.svg"
+                  class="page3-polygon1"
+                />
+              </div>
+            </router-link>
           </div>
         </div>
-        <div class="page3-group4">
-          <router-link to="/1" class="page3-navlink">
+        <router-link to="/1112" class="page3-navlink2">
+          <div class="page3-frame1">
             <img
-              alt="home1541"
-              src="/playground_assets/home1541-3qcd-200w.png"
-              class="page3-home"
+              alt="Rectangle5I221"
+              src="/playground_assets/rectangle5i221-3j05-200h.png"
+              class="page3-rectangle51"
             />
-          </router-link>
-          <router-link to="/1112111" class="page3-navlink1">
-            <div class="page3-frame">
-              <img
-                alt="Rectangle52110"
-                src="/playground_assets/rectangle52110-zb8-200h.png"
-                class="page3-rectangle5"
-              />
-              <img
-                alt="Polygon22111"
-                src="/playground_assets/polygon22111-56mm.svg"
-                class="page3-polygon2"
-              />
-              <img
-                alt="Polygon12110"
-                src="/playground_assets/polygon12110-xnd.svg"
-                class="page3-polygon1"
-              />
-            </div>
-          </router-link>
-        </div>
+            <img
+              alt="Polygon2I221"
+              src="/playground_assets/polygon2i221-xnvs.svg"
+              class="page3-polygon21"
+            />
+            <img
+              alt="Polygon1I221"
+              src="/playground_assets/polygon1i221-iecvq.svg"
+              class="page3-polygon11"
+            />
+          </div>
+        </router-link>
       </div>
-      <router-link to="/11121" class="page3-navlink2">
-        <div class="page3-frame1">
-          <img
-            alt="Rectangle5I221"
-            src="/playground_assets/rectangle5i221-3j05-200h.png"
-            class="page3-rectangle51"
-          />
-          <img
-            alt="Polygon2I221"
-            src="/playground_assets/polygon2i221-xnvs.svg"
-            class="page3-polygon21"
-          />
-          <img
-            alt="Polygon1I221"
-            src="/playground_assets/polygon1i221-iecvq.svg"
-            class="page3-polygon11"
-          />
-        </div>
-      </router-link>
     </div>
   </div>
 </template>
@@ -124,10 +118,21 @@ export default {
   flex-direction: row;
   justify-content: center;
 }
+.page3-container2 {
+  top: 42px;
+  left: 75px;
+  width: 1546px;
+  height: 896px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
 .page3-frame7 {
   gap: 35px;
-  top: 42px;
-  right: -21px;
+  top: 0px;
+  left: 48px;
   width: 1498px;
   height: auto;
   margin: auto;
@@ -143,20 +148,61 @@ export default {
   display: flex;
   position: relative;
   align-self: center;
-  align-items: center;
+  align-items: flex-start;
   flex-shrink: 1;
-  justify-content: center;
 }
 .page3-rectangle4 {
   right: -9px;
   width: 1057px;
   bottom: -13px;
   height: 896px;
+  display: flex;
   position: absolute;
+  align-items: center;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/playground_assets/rectangle41536-cs8a-1100w.png");
+  background-position: center;
+}
+.page3-group14 {
+  width: 770px;
+  height: 699px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page3-image1 {
+  left: 4px;
+  width: 179px;
+  bottom: 28px;
+  height: 521px;
+  position: absolute;
+}
+.page3-image3 {
+  top: 178px;
+  left: 394px;
+  width: 179px;
+  height: 521px;
+  position: absolute;
+}
+.page3-image2 {
+  top: 0px;
+  left: 197px;
+  width: 179px;
+  height: 521px;
+  position: absolute;
+}
+.page3-image4 {
+  top: 0px;
+  left: 591px;
+  width: 179px;
+  height: 521px;
+  position: absolute;
 }
 .page3-group5 {
   top: 68px;
@@ -174,7 +220,7 @@ export default {
 }
 .page3-text {
   top: -19px;
-  left: 43px;
+  left: 42px;
   color: rgb(16, 55, 154);
   width: 62px;
   height: auto;
@@ -189,49 +235,6 @@ export default {
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
-}
-.page3-group17 {
-  width: 995px;
-  height: 774px;
-  display: flex;
-  position: relative;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page3-image1 {
-  top: 0px;
-  left: 195px;
-  width: 217px;
-  height: 454px;
-  position: absolute;
-}
-.page3-image4 {
-  top: 0px;
-  left: 584px;
-  width: 217px;
-  height: 454px;
-  position: absolute;
-}
-.page3-image2 {
-  top: 320px;
-  left: 389px;
-  width: 217px;
-  height: 454px;
-  position: absolute;
-}
-.page3-image5 {
-  top: 320px;
-  left: 778px;
-  width: 217px;
-  height: 454px;
-  position: absolute;
-}
-.page3-image3 {
-  top: 320px;
-  left: 0px;
-  width: 217px;
-  height: 454px;
-  position: absolute;
 }
 .page3-group4 {
   width: 149px;
@@ -307,8 +310,8 @@ export default {
   display: contents;
 }
 .page3-frame1 {
-  top: 430px;
-  left: 71px;
+  top: 380px;
+  left: 0px;
   width: 148px;
   height: 130px;
   margin: auto;

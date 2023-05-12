@@ -1,60 +1,84 @@
 <template>
   <div class="page14-container">
-    <div class="page14-frame40">
-      <div class="page14-group39">
-        <div class="page14-container1">
-          <div class="page14-container2">
+    <div class="page14-container1">
+      <div class="page14-container2">
+        <div class="page14-frame7">
+          <div class="page14-group6">
+            <img
+              alt="Rectangle41536"
+              src="/playground_assets/rectangle41536-cs8a-1100w.png"
+              class="page14-rectangle4"
+            />
+            <div class="page14-group5">
+              <span class="page14-text">
+                <span>6</span>
+                <br />
+              </span>
+            </div>
             <div class="page14-container3">
-              <div class="page14-container4">
-                <div class="page14-rectangle4">
-                  <img
-                    src="/playground_assets/image13556-5aj-700h.png"
-                    alt="IMAGE13556"
-                    class="page14-image1"
-                  />
-                </div>
+              <div class="page14-group20">
+                <img
+                  alt="IMAGE12425"
+                  src="/playground_assets/image12425-0zic-300h.png"
+                  class="page14-image1"
+                />
+                <img
+                  alt="IMAGE22425"
+                  src="/playground_assets/image22425-g8tu-300h.png"
+                  class="page14-image2"
+                />
               </div>
             </div>
           </div>
-        </div>
-        <div class="page14-group38">
-          <div class="page14-frame4">
-            <div class="page14-group1"><span class="page14-text">1</span></div>
-            <router-link to="/12112" class="page14-navlink">
-              <div class="page14-group2">
+          <div class="page14-group4">
+            <router-link to="/1" class="page14-navlink">
+              <img
+                alt="home1541"
+                src="/playground_assets/home1541-3qcd-200w.png"
+                class="page14-home"
+              />
+            </router-link>
+            <router-link to="/11121112" class="page14-navlink1">
+              <div class="page14-frame">
                 <img
-                  src="/playground_assets/rectangle43135-t35h-1100w.png"
-                  alt="Rectangle73137"
-                  class="page14-rectangle7"
+                  alt="Rectangle52110"
+                  src="/playground_assets/rectangle52110-zb8-200h.png"
+                  class="page14-rectangle5"
                 />
-                <span class="page14-text1">4</span>
+                <img
+                  alt="Polygon22111"
+                  src="/playground_assets/polygon22111-56mm.svg"
+                  class="page14-polygon2"
+                />
+                <img
+                  alt="Polygon12110"
+                  src="/playground_assets/polygon12110-xnd.svg"
+                  class="page14-polygon1"
+                />
               </div>
             </router-link>
-            <div class="page14-component1">
-              <img
-                src="/playground_assets/rectangle43135-t35h-1100w.png"
-                alt="Rectangle83137"
-                class="page14-rectangle8"
-              />
-              <span class="page14-text2">5</span>
-            </div>
-            <div class="page14-group3">
-              <img
-                src="/playground_assets/rectangle41536-62and-200h.png"
-                class="page14-rectangle9"
-              />
-              <span class="page14-text3">9</span>
-            </div>
           </div>
         </div>
+        <router-link to="/111211" class="page14-navlink2">
+          <div class="page14-frame1">
+            <img
+              alt="Rectangle5I221"
+              src="/playground_assets/rectangle5i221-3j05-200h.png"
+              class="page14-rectangle51"
+            />
+            <img
+              alt="Polygon2I221"
+              src="/playground_assets/polygon2i221-xnvs.svg"
+              class="page14-polygon21"
+            />
+            <img
+              alt="Polygon1I221"
+              src="/playground_assets/polygon1i221-iecvq.svg"
+              class="page14-polygon11"
+            />
+          </div>
+        </router-link>
       </div>
-      <router-link to="/1" class="page14-navlink1">
-        <img
-          src="https://aheioqhobo.cloudimg.io/v7/_playground-bucket-v2.teleporthq.io_/58334886-fac5-4923-ae0b-527c66bbc2dd/9163f27a-5c34-4efb-919b-2d66ffefbbe0?org_if_sml=128923"
-          alt="home3136"
-          class="page14-home"
-        />
-      </router-link>
     </div>
   </div>
 </template>
@@ -81,106 +105,66 @@ export default {
   overflow: auto;
   min-height: 100vh;
   align-items: center;
-  flex-direction: column;
+  flex-direction: row;
   background-size: cover;
   justify-content: center;
-  background-image: url("/playground_assets/09469961-2df6-4da0-9c7f-759b2530270e-q1as-1500w.undefined");
+  background-image: url("/playground_assets/3ba568a4-6e96-48e9-a247-3448b80f3874-e16p-1500w.undefined");
 }
-.page14-frame40 {
-  gap: 60px;
-  width: 1230px;
-  height: auto;
+.page14-container1 {
+  width: 1575px;
+  height: 932px;
   display: flex;
-  align-self: center;
-  align-items: flex-start;
-  justify-content: flex-end;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
 }
-.page14-group39 {
+.page14-container2 {
+  top: 42px;
+  left: 74px;
+  width: 1547px;
+  height: 896px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+}
+.page14-frame7 {
+  gap: 35px;
+  top: 0px;
+  left: 49px;
+  width: 1498px;
+  height: auto;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  padding-right: 2px;
+  justify-content: center;
+}
+.page14-group6 {
   width: 1057px;
   height: 896px;
   display: flex;
   position: relative;
-  align-items: center;
+  align-self: center;
+  align-items: flex-start;
   flex-shrink: 1;
-  justify-content: center;
-}
-.page14-container1 {
-  flex: 0 0 auto;
-  width: 1057px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.page14-container2 {
-  flex: 0 0 auto;
-  width: 1057px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.page14-container3 {
-  flex: 0 0 auto;
-  width: 1057px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-}
-.page14-container4 {
-  flex: 0 0 auto;
-  width: 1057px;
-  height: auto;
-  display: flex;
-  align-items: center;
-  flex-direction: column;
 }
 .page14-rectangle4 {
-  right: -2px;
+  right: -9px;
   width: 1057px;
-  bottom: -4px;
+  bottom: -13px;
   height: 896px;
-  display: flex;
   position: absolute;
-  align-items: center;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
-  background-size: cover;
-  justify-content: center;
-  background-image: url("/playground_assets/rectangle43135-t35h-1100w.png");
-  background-position: center;
 }
-.page14-image1 {
-  width: 475px;
-  height: 700px;
-  margin-bottom: 200px;
-}
-.page14-group38 {
-  top: 640px;
-  left: 47px;
-  width: 964px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page14-frame4 {
-  gap: 60px;
-  top: 0px;
-  left: 0px;
-  width: 964px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-}
-.page14-group1 {
-  top: 0px;
-  left: 0px;
+.page14-group5 {
+  top: 68px;
+  left: 68px;
   width: 196px;
   height: 196px;
   display: flex;
@@ -190,17 +174,18 @@ export default {
   border-color: var(--dl-color-primary-text);
   border-width: 5px;
   border-radius: var(--dl-radius-radius-radius15);
-  background-size: cover;
-  background-image: url("/playground_assets/rectangle41536-wyuo-200h.png");
+  background-color: rgba(217, 217, 217, 0);
 }
 .page14-text {
-  top: -19px;
+  top: -22px;
   left: 43px;
   color: rgb(16, 55, 154);
-  width: 104px;
+  width: auto;
   height: auto;
+  margin: auto;
   position: absolute;
   font-size: 200px;
+  align-self: center;
   font-style: Bold;
   text-align: left;
   font-family: Frozen1;
@@ -208,129 +193,151 @@ export default {
   line-height: normal;
   font-stretch: normal;
   text-decoration: none;
+}
+.page14-container3 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.page14-group20 {
+  width: 844px;
+  height: 642px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.page14-image1 {
+  left: -9px;
+  width: 594px;
+  bottom: -154px;
+  height: 292px;
+  position: absolute;
+}
+.page14-image2 {
+  top: 139px;
+  right: -31px;
+  width: 594px;
+  height: 292px;
+  position: absolute;
+}
+.page14-group4 {
+  width: 149px;
+  height: 561px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
 }
 .page14-navlink {
   display: contents;
 }
-.page14-group2 {
+.page14-home {
   top: 0px;
-  left: 256px;
-  width: 196px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-  text-decoration: none;
-}
-.page14-rectangle7 {
-  top: 0px;
-  left: 0px;
-  width: 196px;
-  height: 196px;
+  left: 36px;
+  width: 113px;
+  height: 116px;
   position: absolute;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
   border-width: 5px;
   border-radius: 15px;
-}
-.page14-text1 {
-  top: -16px;
-  left: 51px;
-  color: rgb(16, 55, 154);
-  height: auto;
-  position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.page14-component1 {
-  top: 0px;
-  left: 512px;
-  width: 196px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 0;
-}
-.page14-rectangle8 {
-  top: 0px;
-  left: 0px;
-  width: 196px;
-  height: 196px;
-  position: absolute;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
-}
-.page14-text2 {
-  top: -14px;
-  left: 45px;
-  color: rgb(16, 55, 154);
-  height: auto;
-  position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
-  text-decoration: none;
-}
-.page14-group3 {
-  top: 0px;
-  left: 768px;
-  width: 196px;
-  height: 220px;
-  display: flex;
-  position: absolute;
-  align-items: flex-start;
-  flex-shrink: 1;
-}
-.page14-rectangle9 {
-  top: 0px;
-  left: 0px;
-  width: 196px;
-  height: 196px;
-  position: absolute;
-  border-color: rgba(16, 55, 154, 1);
-  border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
-}
-.page14-text3 {
-  top: -16px;
-  left: 54px;
-  color: rgb(16, 55, 154);
-  height: auto;
-  position: absolute;
-  font-size: 200px;
-  font-style: Bold;
-  text-align: left;
-  font-family: Frozen1;
-  font-weight: 700;
-  line-height: normal;
-  font-stretch: normal;
   text-decoration: none;
 }
 .page14-navlink1 {
   display: contents;
 }
-.page14-home {
-  width: 113px;
-  height: 116px;
+.page14-frame {
+  right: -1px;
+  width: 149px;
+  bottom: 0px;
+  height: 171px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.page14-rectangle5 {
+  top: 34px;
+  left: -5px;
+  width: 78px;
+  height: 45px;
+  margin: auto;
+  position: absolute;
+  box-sizing: content-box;
   border-color: rgba(16, 55, 154, 1);
   border-style: solid;
-  border-width: 5px;
-  border-radius: 15px;
+  border-width: 8px;
+  border-radius: var(--dl-radius-radius-radius4);
+  border-right-width: 0px;
+}
+.page14-polygon2 {
+  top: 13px;
+  right: -26px;
+  width: 130px;
+  height: 102px;
+  margin: auto;
+  position: absolute;
+  box-sizing: content-box;
+  border-radius: var(--dl-radius-radius-radius4);
+}
+.page14-polygon1 {
+  top: 23px;
+  right: -14px;
+  width: 110px;
+  height: 82px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.page14-navlink2 {
+  display: contents;
+}
+.page14-frame1 {
+  top: 393px;
+  left: 0px;
+  width: 148px;
+  height: 130px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-shrink: 0;
   text-decoration: none;
+}
+.page14-rectangle51 {
+  top: 40px;
+  right: -15px;
+  width: 78px;
+  height: 45px;
+  position: absolute;
+  box-sizing: content-box;
+  border-color: rgba(16, 55, 154, 1);
+  border-style: solid;
+  border-width: 8px;
+  border-radius: 2px;
+  border-left-width: 0px;
+}
+.page14-polygon21 {
+  top: 19px;
+  left: -17px;
+  width: 130px;
+  height: 102px;
+  position: absolute;
+  box-sizing: content-box;
+}
+.page14-polygon11 {
+  top: 29px;
+  left: -5px;
+  width: 110px;
+  height: 82px;
+  position: absolute;
+  box-sizing: content-box;
 }
 </style>
